@@ -69,16 +69,4 @@ input{
 ul li.checked {
   text-decoration: line-through;
 }
-/*ul li.checked::before {*/
-/*  content: '';*/
-/*  position: absolute;*/
-/*  border-color: cadetblue;*/
-/*  border-style: solid;*/
-/*  border-width: 0 2px 2px 0;*/
-/*  top: 10px;*/
-/*  left: 16px;*/
-/*  transform: rotate(45deg);*/
-/*  height: 15px;*/
-/*  width: 7px;*/
-/*}*/
 </style>
